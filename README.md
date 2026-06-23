@@ -22,6 +22,3 @@ Developed an interactive Power BI dashboard to compare forecast and actual perfo
 ## Key Skills
 Data Analytics, Business Intelligence, Dashboard Development, Data Modeling
 
-## Screenshots
-
-(Add dashboard screenshots here)
